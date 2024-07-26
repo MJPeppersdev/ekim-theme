@@ -1,0 +1,31 @@
+{
+  "name": "ekim",
+  "displayName": "Ekim",
+  "description": "This theme is a bit unorthodox, but it works for me, and it could work for you ",
+  "publisher": "MJPeppersdev",
+  "author": "MJPeppersdev <mjpeppersdev@protonmail.com>",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["theme", "vivid", "colorful", "neon", "mellow", "details", "dark", "unique"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ekim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ekim-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/MJPeppersdev/ekim-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/MJPeppersdev/ekim-theme/issues"
+  }
+}
